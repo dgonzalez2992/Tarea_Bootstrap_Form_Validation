@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.message {
+    background-color: #28a745;
+    color: #fff;
+    font-size: 3rem;
+    text-align: center;
+    padding: 2rem;
+    border-radius: 1rem;
+}
